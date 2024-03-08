@@ -1,0 +1,4 @@
+sources:
+  components: true
+variants: true
+format: flat
